@@ -1,0 +1,1 @@
+c:\Python32\python.exe tools/playgame.py "C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Release\Bot.exe" "AmericanRiderBot4Uploaded.exe" --map_file tools/maps/example/tutorial1.map --log_dir game_logs --turns 70 --scenario --food none --player_seed 7 --verbose -e

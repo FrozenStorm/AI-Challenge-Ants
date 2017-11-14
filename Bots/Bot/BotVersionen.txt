@@ -1,0 +1,14 @@
+Bot3:
+Erste Upload version ohne verteidigung und ohne angriff
+
+Bot7:
+Mit Verteidigung und angriff Zeitprobleme
+
+Bot8:
+Ist Bot7 eifach schneller und bessere Suche weniger Timeing probleme
+
+Bot10:
+A* File erzeugt und alle globalen Funktionen zur Wegfindung zusammengezogen in dieses File 
+
+Bot11:
+Logik umgedreht so dass eine Königin alle Ameisen Aufgaben zuweist

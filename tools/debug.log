@@ -1,0 +1,6 @@
+System.ArgumentException: Ungültiger Parameter.
+   bei System.Drawing.Bitmap..ctor(Int32 width, Int32 height, PixelFormat format)
+   bei System.Drawing.Bitmap..ctor(Int32 width, Int32 height)
+   bei Ants.GameState.SaveState(Boolean ToFile) in C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\Bot11\GameState.cs:Zeile 435.
+   bei Ants.MyBot.DoTurn(IGameState state) in C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\Bot11\MyBot.cs:Zeile 92.
+   bei Ants.Ants.PlayGame(Bot bot) in C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\Bot11\Ants.cs:Zeile 72.

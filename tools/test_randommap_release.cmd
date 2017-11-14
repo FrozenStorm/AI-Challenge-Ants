@@ -1,0 +1,1 @@
+c:\Python32\python.exe tools/playgame.py "C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Release\Bot.exe" "AmericanRiderBot4Uploaded.exe" --map_file tools/maps/random_walk/random_walk_02p_02.map --log_dir game_logs --turns 1000 --player_seed 7 --verbose -e

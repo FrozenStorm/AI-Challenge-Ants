@@ -1,0 +1,1 @@
+c:\Python32\python.exe tools/playgame.py "C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Release\Bot.exe" "java -jar ShyluxBot.jar" "AmericanRiderBot4Uploaded" "AmericanRiderBot9" --map_file tools/maps/cell_maze/cell_maze_p04_02.map --log_dir game_logs --turns 1000 --player_seed 7 --verbose -e --turntime 600000 --serial --loadtime 600000

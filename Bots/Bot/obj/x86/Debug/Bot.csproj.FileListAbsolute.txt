@@ -1,0 +1,10 @@
+C:\Users\Daniel\My Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel\My Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Debug\Bot.exe
+C:\Users\Daniel\My Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Debug\Bot.pdb
+C:\Users\Daniel\My Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Debug\Bot.exe
+C:\Users\Daniel\My Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Debug\Bot.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Debug\Bot.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Debug\Bot.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache

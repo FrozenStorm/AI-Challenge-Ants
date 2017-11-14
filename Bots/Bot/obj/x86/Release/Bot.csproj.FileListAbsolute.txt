@@ -1,0 +1,7 @@
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\tools\Bot.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\tools\Bot.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Release\Bot.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Release\Bot.pdb
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\obj\x86\Release\Bot.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Release\Bot.exe
+C:\Users\Daniel\Dropbox\Work\Programmieren\C#\AI Challenge\Bots\Bot\bin\Release\Bot.pdb
